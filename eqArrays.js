@@ -1,7 +1,7 @@
 const assertEqual = function(actual, expected) {
   actual === expected ?
-    console.log(`✅ Assertion Passed: ${actual} === ${expected}`) :
-    console.log(`❌ Assertion Failed: ${actual} !== ${expected}`);
+    console.log(`✅✅✅ Assertion Passed: ${actual} === ${expected}`) :
+    console.log(`❌❌❌ Assertion Failed: ${actual} !== ${expected}`);
 };
 
 // Need to compare 2 arrays and see if they match perfectly, element for element.
