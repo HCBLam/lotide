@@ -1,7 +1,3 @@
-const eqArrays = require('./eqArrays');
-const assertArraysEqual = ('./assertArraysEqual');
-
-
 // Create a function that will take 1 array of any length.
 // It should return an array containing only the middle-most element(s) of the given array.
 // If the array has only 1 or 2 elements, return an empty array.
