@@ -10,3 +10,10 @@ const tail = function(array) {
 
 
 module.exports = tail;
+
+
+// After refactoring:
+// const tail = function(arr) {
+//   return arr.slice(1);
+// };
+
